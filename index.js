@@ -7,3 +7,6 @@ function addingEventListener() {
 function clickAlert() {
     alert('I was clicked!');    
 }
+
+
+
